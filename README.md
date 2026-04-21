@@ -24,5 +24,5 @@ Trilingual engineer with a hybrid background in **Low-level Systems (EPITA)** an
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacques_Chen-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jacques-chen/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacques_Chen-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jacques-chen-56008b24b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out-orange?style=flat-square)](in progress...)
