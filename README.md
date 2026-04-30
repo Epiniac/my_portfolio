@@ -1,11 +1,11 @@
-# Hi, I'm Jacques Chen 👋
-**DevOps Engineer | Fullstack Developer | Systems Admin**
+# Hi, I'm Jacques Chen
+**DevOps Engineer | Fullstack Developer | SysAdmin**
 
 Trilingual engineer with a hybrid background in **Low-level Systems (EPITA)** and **Modern Web/DevOps (HETIC)**. I specialize in bridging the gap between robust infrastructure and scalable software solutions.
 
 ---
 
-### 🛠 Technical Stack
+### Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -15,7 +15,7 @@ Trilingual engineer with a hybrid background in **Low-level Systems (EPITA)** an
 
 ---
 
-### 🌍 Languages & Education
+### Languages & Education
 
 * **Languages:** French (Native), English (C2 - Bilingual), Chinese (C1 - Advanced).
 * **Education:** * **HETIC**: Bachelor in Web Development & DevOps.
@@ -23,6 +23,6 @@ Trilingual engineer with a hybrid background in **Low-level Systems (EPITA)** an
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jacques_Chen-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jacques-chen-56008b24b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check_it_out-orange?style=flat-square)](in progress...)
